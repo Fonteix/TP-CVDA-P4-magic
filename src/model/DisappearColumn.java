@@ -1,10 +1,20 @@
+/**
+ * MagicP4
+ * IUT Lyon 1 - 2016
+ */
 package model;
 
-import static javafx.beans.binding.Bindings.isEmpty;
-import static javafx.beans.binding.Bindings.isEmpty;
 
 public class DisappearColumn extends Effect {
-
+    
+    /**
+     * Cet effet fait disparaitre la colonne dans laquelle le joueur viens de cliquer
+     *
+     * @param line
+     * @param column
+     * @param game
+     */
+    
     @Override
     public void playEffect(int line, int column, Game game) {
 

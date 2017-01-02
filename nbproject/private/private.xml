@@ -5,12 +5,10 @@
         <group>
             <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/ChangeColorEffect.java</file>
             <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/Game.java</file>
+            <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/test/model/DisappearEffectTest.java</file>
             <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/DisappearEffect.java</file>
-            <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/HumanPlayer.java</file>
             <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/DisappearColumn.java</file>
-            <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/Board.java</file>
-            <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/Tile.java</file>
-            <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/Player.java</file>
+            <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/test/model/ChangeColorEffectTest.java</file>
             <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/EffectFactory.java</file>
             <file>file:/Users/EtiX42/NetBeansProjects/JavaApplication1/src/TP_P4_CVDA/src/model/Effect.java</file>
         </group>
