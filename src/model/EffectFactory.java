@@ -21,7 +21,7 @@ public class EffectFactory {
      */
     public static Effect createEffect() {
         int min = 0;
-        int max = 2;
+        int max = 3;
         Random rand = new Random();
         //Tire un nombre aléatoire entre min et max compris
         int random = rand.nextInt(max - min + 1) + min;
@@ -34,6 +34,8 @@ public class EffectFactory {
                 return new DisappearEffect();
             case 2:
                 return new DisappearColumn();
+            case 3 : 
+                return new DisappearBoard();
         }
 
         return null;
